@@ -1,4 +1,4 @@
-# Andebian
+# Andrinux
 Running Linux on android using root
 
 This is for rooted devices only and with busybox installed!
